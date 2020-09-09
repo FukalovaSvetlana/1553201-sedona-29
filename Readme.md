@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Фукалова Светлана](https://up.htmlacademy.ru/htmlcss/29/user/1553201).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгения Зорина](https://htmlacademy.ru/profile/sanguis).
 
 ---
 
